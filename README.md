@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Audi!
+<h1 style="font-size: 32px;">Hi there 👋, I'm Audi!</h1>
 
 <div style="display: flex; justify-content: space-between;">
     <a href="https://github.com/AudiHagi">
