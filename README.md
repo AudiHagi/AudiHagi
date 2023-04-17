@@ -2,7 +2,7 @@
 
 <div style="display: flex; justify-content: space-between;">
     <a href="https://github.com/AudiHagi">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AudiHagi&hide_progress=false&theme=highcontrast" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AudiHagi&hide_progress=false" />
     </a>
     <a href="https://github.com/AudiHagi">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=AudiHagi&show_icons=true&theme=graywhite" />
