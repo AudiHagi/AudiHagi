@@ -1,5 +1,7 @@
 <h1 style="font-size: 32px;">Hi there 👋, I'm Audi!</h1>
 
+This Github contains websites and applications that I work on as assignments in my studies, both individually and in groups.
+
 <div style="display: flex; justify-content: space-between;">
     <a href="https://github.com/AudiHagi">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AudiHagi&hide_progress=false" />
