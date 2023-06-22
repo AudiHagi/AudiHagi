@@ -21,8 +21,8 @@ This Github contains websites and applications that I work on as assignments in 
 
 <h2 align="left">My Github Statistics</h2>
 <p>
-  <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AudiHagi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AudiHagi&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AudiHagi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AudiHagi&layout=compact&langs_count=8&theme=dark"/>
 </p>
 
 
