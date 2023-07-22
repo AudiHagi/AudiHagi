@@ -1,12 +1,12 @@
 <h1 style="font-size: 32px;"align="center">Hi there 👋, I'm Audi!</h1>
 
-This Github contains websites and applications that I work on as assignments in my studies.
+<p align="justify">This GitHub repository serves as a testament to my journey as a junior programmer, showcasing websites and applications meticulously crafted during my academic pursuits. Focused on Android development, I leverage cutting-edge technologies like Kotlin, Firebase, and Postman to create efficient and user-centric solutions. Open to collaborations, my passion for excellence, problem-solving skills, and commitment to continuous learning drive me to deliver high-quality results within specified timelines.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AudiHagi&label=Profile%20views&color=0e75b6&style=flat" alt="AudiHagi" /> </p>
 
-- I’m currently learning **Android Development**
+- I am currently engaged in mastering **Android Development**
 
-- Reach me at **audi.hagi2002@gmail.com**
+- For further communication, kindly reach me at **audi.hagi2002@gmail.com**
 
 <h2 align="left">Languages and Tools</h2>
 <p align="left"> 
